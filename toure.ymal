@@ -1,0 +1,270 @@
+0:
+  identifiant: Z180
+  matieres: Math
+  notes: '12'
+  trimestre: '1'
+1:
+  identifiant: Z180
+  matieres: SVT
+  notes: '17'
+  trimestre: '1'
+2:
+  identifiant: Z180
+  matieres: Physique
+  notes: '19'
+  trimestre: '1'
+3:
+  identifiant: X452
+  matieres: Math
+  notes: '14'
+  trimestre: '1'
+4:
+  identifiant: X452
+  matieres: SVT
+  notes: '10'
+  trimestre: '1'
+5:
+  identifiant: X452
+  matieres: Physique
+  notes: '16'
+  trimestre: '1'
+6:
+  identifiant: Z133
+  matieres: Math
+  notes: '12'
+  trimestre: '1'
+7:
+  identifiant: Z133
+  matieres: SVT
+  notes: '9'
+  trimestre: '1'
+8:
+  identifiant: Z133
+  matieres: Physique
+  notes: '8'
+  trimestre: '1'
+9:
+  identifiant: X013
+  matieres: Math
+  notes: '7'
+  trimestre: '1'
+10:
+  identifiant: X013
+  matieres: SVT
+  notes: '12'
+  trimestre: '1'
+11:
+  identifiant: X013
+  matieres: Physique
+  notes: '8'
+  trimestre: '1'
+12:
+  identifiant: Z412
+  matieres: Math
+  notes: '16'
+  trimestre: '1'
+13:
+  identifiant: Z412
+  matieres: SVT
+  notes: '20'
+  trimestre: '1'
+14:
+  identifiant: Z412
+  matieres: Physique
+  notes: '17'
+  trimestre: '1'
+15:
+  identifiant: Z011
+  matieres: Math
+  notes: '5'
+  trimestre: '1'
+16:
+  identifiant: Z011
+  matieres: SVT
+  notes: '19'
+  trimestre: '1'
+17:
+  identifiant: Z011
+  matieres: Physique
+  notes: '16'
+  trimestre: '1'
+18:
+  identifiant: Z180
+  matieres: Math
+  notes: '12'
+  trimestre: '2'
+19:
+  identifiant: Z180
+  matieres: SVT
+  notes: '17'
+  trimestre: '2'
+20:
+  identifiant: Z180
+  matieres: Physique
+  notes: '19'
+  trimestre: '2'
+21:
+  identifiant: X452
+  matieres: Math
+  notes: ''
+  trimestre: '2'
+22:
+  identifiant: X452
+  matieres: SVT
+  notes: '10'
+  trimestre: '2'
+23:
+  identifiant: X452
+  matieres: Physique
+  notes: '16'
+  trimestre: '2'
+24:
+  identifiant: Z133
+  matieres: Math
+  notes: '12'
+  trimestre: '2'
+25:
+  identifiant: Z133
+  matieres: SVT
+  notes: '9'
+  trimestre: '2'
+26:
+  identifiant: Z133
+  matieres: Physique
+  notes: '8'
+  trimestre: '2'
+27:
+  identifiant: X013
+  matieres: Math
+  notes: '7'
+  trimestre: '2'
+28:
+  identifiant: X013
+  matieres: SVT
+  notes: '12'
+  trimestre: '2'
+29:
+  identifiant: X013
+  matieres: Physique
+  notes: '8'
+  trimestre: '2'
+30:
+  identifiant: Z412
+  matieres: Math
+  notes: '16'
+  trimestre: '2'
+31:
+  identifiant: Z412
+  matieres: SVT
+  notes: '20'
+  trimestre: '2'
+32:
+  identifiant: Z412
+  matieres: Physique
+  notes: '17'
+  trimestre: '2'
+33:
+  identifiant: Z011
+  matieres: Math
+  notes: '5'
+  trimestre: '2'
+34:
+  identifiant: Z011
+  matieres: SVT
+  notes: '19'
+  trimestre: '2'
+35:
+  identifiant: Z011
+  matieres: Physique
+  notes: '16'
+  trimestre: '2'
+36:
+  identifiant: Z180
+  matieres: Math
+  notes: '12'
+  trimestre: '3'
+37:
+  identifiant: Z180
+  matieres: SVT
+  notes: '17'
+  trimestre: '3'
+38:
+  identifiant: Z180
+  matieres: Physique
+  notes: '19'
+  trimestre: '3'
+39:
+  identifiant: X452
+  matieres: Math
+  notes: '14'
+  trimestre: '3'
+40:
+  identifiant: X452
+  matieres: SVT
+  notes: '10'
+  trimestre: '3'
+41:
+  identifiant: X452
+  matieres: Physique
+  notes: ''
+  trimestre: '3'
+42:
+  identifiant: Z133
+  matieres: Math
+  notes: '12'
+  trimestre: '3'
+43:
+  identifiant: Z133
+  matieres: SVT
+  notes: '9'
+  trimestre: '3'
+44:
+  identifiant: Z133
+  matieres: Physique
+  notes: '8'
+  trimestre: '3'
+45:
+  identifiant: X013
+  matieres: Math
+  notes: '7'
+  trimestre: '3'
+46:
+  identifiant: X013
+  matieres: SVT
+  notes: '12'
+  trimestre: '3'
+47:
+  identifiant: X013
+  matieres: Physique
+  notes: '8'
+  trimestre: '3'
+48:
+  identifiant: Z412
+  matieres: Math
+  notes: '16'
+  trimestre: '3'
+49:
+  identifiant: Z412
+  matieres: SVT
+  notes: '20'
+  trimestre: '3'
+50:
+  identifiant: Z412
+  matieres: Physique
+  notes: ''
+  trimestre: '3'
+51:
+  identifiant: Z011
+  matieres: Math
+  notes: '5'
+  trimestre: '3'
+52:
+  identifiant: Z011
+  matieres: SVT
+  notes: '19'
+  trimestre: '3'
+53:
+  identifiant: Z011
+  matieres: Physique
+  notes: '16'
+  trimestre: '3'
